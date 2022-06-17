@@ -28,8 +28,8 @@ I am following that tutorial as starting point. Here's my progress:
 - [x] Setup Environment
 - [ ] Drawing a triangle
   - [ ] Setup
-    - [] Base code
-    - [] Instance
+    - [x] Base code
+    - [x] Instance
     - [ ] Validation Layers
     - [ ] Physical devices and queues
     - [ ] Logical device and queues
