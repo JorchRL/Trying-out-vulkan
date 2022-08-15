@@ -34,12 +34,33 @@ I am following that tutorial as starting point. Here's my progress:
     - [ ] Physical devices and queues
     - [ ] Logical device and queues
   - [ ] Presentation
+    - [ ] Window surface
+    - [ ] Swap chain
+    - [ ] Image views
   - [ ] Graphics pipeline basics
+    - [ ] Introduction
+    - [ ] Shader Modules
+    - [ ] Fixed Function
+    - [ ] Render passes
+    - [ ] Conclusion
   - [ ] Drawing
+    - [ ] Framebuffers
+    - [ ] Command buffers
+    - [ ] Rendering and presentation
+    - [ ] Frames in flight
   - [ ] Swap chain recreation
 - [ ] Vertex buffers
+  - [ ] Vertex input description
+  - [ ] Vertex buffer creation
+  - [ ] Staging buffer
+  - [ ] Index buffer
 - [ ] Uniform buffers
+  - [ ] Descriptor layout and buffer
+  - [ ] Descriptor pool and sets
 - [ ] Texture mapping
+  - [ ] Images
+  - [ ] Image view and sampler
+  - [ ] Combined image sampler
 - [ ] Depth buffering
 - [ ] Loading models
 - [ ] Generating Mipmaps
