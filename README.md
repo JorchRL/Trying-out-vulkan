@@ -1,11 +1,8 @@
 ## Learning Vulkan
 
-This repo keeps a record of me trying to figure out the stuff I don't know while
-following https://vulkan-tutorial.com/
+This repo keeps a record of me trying to figure out the stuff I don't know while following https://vulkan-tutorial.com/
 
-At the moment of staring the tutorial I have 0 idea of how Vulkan works. And the
-bare minimum understanding of C++. So the purpose of this project is learning.
-And documenting, so it may be helpful for others :D
+At the moment of staring the tutorial I have 0 idea of how Vulkan works. And the bare minimum understanding of C++. So the purpose of this project is learning. And documenting, so it may be helpful for others :D
 
 ## Vulkan app
 
@@ -13,13 +10,15 @@ At the root is the code for the simple vulkan app I am building.
 
 ## Notes
 
-I'll add a Notes file with a small note or links to blog posts I wrote about the
-things I had to figure out to make it to that point. I'll add an index here.
+I'll add a Notes file with a small note or links to blog posts I wrote about the things I had to figure out to make it to that point. I'll add an index here.
 
 ## Goal
 
-My main goal is to get confortable working with a complex and low level API. As
-well as with C++. Of course, I also want to learn Vulkan itself.
+My main goal is to get confortable working with a complex and low level API. As well as with C++. Of course, I also want to learn Vulkan itself.
+
+## Maybe Help me?
+
+Feel free to open an issue if you see a mistake, or have some idea that can help me get better at Vulkan, or some other comment, tip, trick you want to share with me.
 
 ## Vulkan-Tutorial.com
 
